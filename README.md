@@ -7,4 +7,4 @@
 
 Website: [https://kartvest.herokuapp.com](https://kartvest.herokuapp.com "KARTVEST")
 
-## It provides a platform inviting all the farmaers of our country to come and sell their produce directly to the consumers.
+### It provides a platform inviting all the farmers of our country to come and sell their produce directly to the consumers.
