@@ -1,0 +1,26 @@
+body{
+    background: url("crop1.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    color:white;
+}
+h1{
+    color:white;
+}
+.container {
+    width: 50%;
+    margin:2% auto;
+    padding: 30px 30px 20px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-shadow:  0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+a{
+    color: blanchedalmond;
+}
+a:hover{
+  color:rgb(0, 102, 204) ;
+}
